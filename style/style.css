@@ -43,3 +43,7 @@ a{
 #usarname{
     font-size: 16px;
 }
+#Inicio{
+    display: block;
+    text-align: center;
+}
