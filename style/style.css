@@ -25,8 +25,19 @@ a{
     display: flex; 
     justify-content: space-between; 
     align-items: center; 
-    background-color: #EBD8D0;
+    background-color: #D3AB9E;
 }
-h1{
+#title_text{
     text-align: center;
+}
+#profile_image{
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+    background-color: #FFFBFF;
+    margin: 30px;
+}
+#picture_profile{
+    width: 20vw;
+    border-radius: 25%;
 }
