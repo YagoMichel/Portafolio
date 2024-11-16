@@ -106,3 +106,6 @@ article{
 .image_article{
     width: 30vw;
 }
+ul{
+    list-style: none;
+}
