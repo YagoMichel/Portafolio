@@ -27,5 +27,7 @@ El proyecto incluye las siguientes páginas:
    ```bash
    git clone https://github.com/YagoMichel/Portafolio.git
 
+2. **GitHub Pages**
+https://yagomichel.github.io/Portafolio/
 
 Athor Santiago Michel Hernández
