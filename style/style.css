@@ -23,7 +23,7 @@ a{
     text-decoration: none;
 }
 #logo {
-    width: 10vw;
+    width: 8vw;
     
 }
 #image_proyect{
@@ -53,8 +53,9 @@ a{
     font-size: 16px;
 }
 #Inicio{
-    display: block;
+    display:block;
     text-align: center;
+    align-items: center;
 }
 footer {
     background-color: #EBD8D0;
@@ -85,11 +86,11 @@ footer p {
     margin-right: 30px;
 }
 .social_media_icons{
-    width: 12vw;
+    width: 8vw;
     
 }
 .social_media_icons_f{
-    width: 12vw;
+    width: 8vw;
     border: 2px solid #000000;
     border-radius: 10px;
 } 
