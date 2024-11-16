@@ -26,6 +26,7 @@ a{
     justify-content: space-between; 
     align-items: center; 
     background-color: #D3AB9E;
+    border-radius: 10px;
 }
 #title_text{
     text-align: center;
@@ -46,4 +47,23 @@ a{
 #Inicio{
     display: block;
     text-align: center;
+}
+footer {
+    background-color: #EBD8D0;
+    color: #000000;
+    text-align: center;
+    padding: 15px; 
+    font-size: 14px;
+    border-radius: 10px;
+}
+#socialmedia_footer {
+    list-style: none;
+    padding: 0;
+    margin: 0 0 10px 0; 
+}
+#socialmedia_footer li {
+    margin: 5px 0;
+}
+footer p {
+    margin: 0; 
 }
