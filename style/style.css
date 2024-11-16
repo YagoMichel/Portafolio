@@ -93,3 +93,16 @@ footer p {
     border: 2px solid #000000;
     border-radius: 10px;
 } 
+input{
+    border: none;
+    outline: none;
+    border-radius: 5px;
+    margin: 10px;
+}
+article{
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+.image_article{
+    width: 30vw;
+}
