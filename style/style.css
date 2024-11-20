@@ -15,6 +15,7 @@ main{
 }
 
 .navbar li {
+    transition: 125ms;
     display: inline; 
     margin-right: 15px; 
 }
@@ -86,6 +87,7 @@ footer p {
     margin-right: 30px;
 }
 .social_media_icons{
+    transition: 125ms;
     width: 8vw;
     
 }
@@ -109,4 +111,14 @@ article{
 }
 ul{
     list-style: none;
+}
+.navbar li:hover{
+    transition: 125ms;
+    padding: 0.8rem 1.5rem;
+    background-color: #EBD8D0;
+    color: #000000;
+    border-radius: 8px;
+}
+.social_media_icons:hover, .social_media_icons_f:hover{
+    transform: scale(1.2);
 }
